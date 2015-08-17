@@ -1,3 +1,4 @@
+var thunkify = require('thunkify');
 
 module.exports = function(request){
   var Request = request.Request;
