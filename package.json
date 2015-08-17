@@ -1,0 +1,26 @@
+{
+  "name": "superagent-thunkify",
+  "version": "1.0.0",
+  "description": "superagent thunkify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lsong",
+  "license": "MIT",
+  "keywords": [
+    "superagent",
+    "thunkify"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/superagent-thunkify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/song940/superagent-thunkify/issues"
+  },
+  "homepage": "https://github.com/song940/superagent-thunkify#readme",
+  "dependencies": {
+    "thunkify": "^2.1.2"
+  }
+}
